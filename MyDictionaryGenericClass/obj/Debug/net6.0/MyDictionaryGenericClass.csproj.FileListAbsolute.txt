@@ -1,0 +1,15 @@
+C:\Users\NEXUS\source\repos\MyDictionaryGenericClass\MyDictionaryGenericClass\bin\Debug\net6.0\MyDictionaryGenericClass.exe
+C:\Users\NEXUS\source\repos\MyDictionaryGenericClass\MyDictionaryGenericClass\bin\Debug\net6.0\MyDictionaryGenericClass.deps.json
+C:\Users\NEXUS\source\repos\MyDictionaryGenericClass\MyDictionaryGenericClass\bin\Debug\net6.0\MyDictionaryGenericClass.runtimeconfig.json
+C:\Users\NEXUS\source\repos\MyDictionaryGenericClass\MyDictionaryGenericClass\bin\Debug\net6.0\MyDictionaryGenericClass.dll
+C:\Users\NEXUS\source\repos\MyDictionaryGenericClass\MyDictionaryGenericClass\bin\Debug\net6.0\MyDictionaryGenericClass.pdb
+C:\Users\NEXUS\source\repos\MyDictionaryGenericClass\MyDictionaryGenericClass\obj\Debug\net6.0\MyDictionaryGenericClass.csproj.AssemblyReference.cache
+C:\Users\NEXUS\source\repos\MyDictionaryGenericClass\MyDictionaryGenericClass\obj\Debug\net6.0\MyDictionaryGenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEXUS\source\repos\MyDictionaryGenericClass\MyDictionaryGenericClass\obj\Debug\net6.0\MyDictionaryGenericClass.AssemblyInfoInputs.cache
+C:\Users\NEXUS\source\repos\MyDictionaryGenericClass\MyDictionaryGenericClass\obj\Debug\net6.0\MyDictionaryGenericClass.AssemblyInfo.cs
+C:\Users\NEXUS\source\repos\MyDictionaryGenericClass\MyDictionaryGenericClass\obj\Debug\net6.0\MyDictionaryGenericClass.csproj.CoreCompileInputs.cache
+C:\Users\NEXUS\source\repos\MyDictionaryGenericClass\MyDictionaryGenericClass\obj\Debug\net6.0\MyDictionaryGenericClass.dll
+C:\Users\NEXUS\source\repos\MyDictionaryGenericClass\MyDictionaryGenericClass\obj\Debug\net6.0\refint\MyDictionaryGenericClass.dll
+C:\Users\NEXUS\source\repos\MyDictionaryGenericClass\MyDictionaryGenericClass\obj\Debug\net6.0\MyDictionaryGenericClass.pdb
+C:\Users\NEXUS\source\repos\MyDictionaryGenericClass\MyDictionaryGenericClass\obj\Debug\net6.0\MyDictionaryGenericClass.genruntimeconfig.cache
+C:\Users\NEXUS\source\repos\MyDictionaryGenericClass\MyDictionaryGenericClass\obj\Debug\net6.0\ref\MyDictionaryGenericClass.dll
